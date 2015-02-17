@@ -898,7 +898,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = ObjectAL;
-				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PRODUCT_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "../../Headers/$(PRODUCT_NAME)";
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -914,7 +914,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = ObjectAL;
-				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PRODUCT_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "../../Headers/$(PRODUCT_NAME)";
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
